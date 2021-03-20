@@ -1,0 +1,1 @@
+A beat maker used to make beats by clicking on different colors. Each color make different beats. Enjoy playing some music made by you.
